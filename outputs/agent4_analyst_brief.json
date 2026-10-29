@@ -1,0 +1,744 @@
+[
+  {
+    "event": "Potentially Material Business Event",
+    "company": "Maruthi",
+    "priority": "HIGH",
+    "executive_summary": "AI-generated interpretation (unverified): A major supply disruption in the energy sector has led to a surge in Brent crude prices, potentially impacting global energy markets and prices.",
+    "market_event": "AI-generated interpretation; verify against original reporting: Brent crude prices surge after major supply disruption",
+    "company_exposure": "AI-generated interpretation (unverified): Maruthi's profile does not indicate any direct involvement in the energy sector or supply chain.",
+    "potential_impact_mechanism": "AI-generated interpretation (unverified): Global supply chain impact, potential price volatility",
+    "potential_financial_areas": [
+      "Potential area to investigate: Energy",
+      "Potential area to investigate: Global supply chain"
+    ],
+    "known_evidence": [
+      "Supplied news headline (source/date: Reuters, 2026-09-25) (not independently verified): \"Brent crude prices surge after major supply disruption\""
+    ],
+    "uncertainties": [
+      "Requires analyst verification: Limited information on the specific supply disruption and its impact on global energy markets",
+      "Requires analyst verification: Maruthi's potential exposure to the event is unclear"
+    ],
+    "analyst_questions": [
+      "What is the specific nature of the supply disruption and its potential impact on global energy markets?",
+      "How might Maruthi be affected by the event, if at all?"
+    ],
+    "next_investigation_steps": [
+      "Review financial statements for potential exposure to energy-related costs or revenues",
+      "Assess Maruthi's pass-through ability and potential hedging strategies",
+      "Investigate Maruthi's historical periods for any relevant data on energy-related operations or supply chain disruptions"
+    ]
+  },
+  {
+    "event": "Potentially Material Business Event",
+    "company": "Yamaha",
+    "priority": "HIGH",
+    "executive_summary": "AI-generated interpretation (unverified): Brent crude prices surged due to a major supply disruption, potentially impacting global energy markets and prices.",
+    "market_event": "AI-generated interpretation; verify against original reporting: Brent crude prices surged after major supply disruption",
+    "company_exposure": "AI-generated interpretation (unverified): None identified by Agent 3 Company Impact Assessment",
+    "potential_impact_mechanism": "AI-generated interpretation (unverified): Global supply chain impact, potential price volatility",
+    "potential_financial_areas": [
+      "Potential area to investigate: Liquidity",
+      "Potential area to investigate: Debt maturities"
+    ],
+    "known_evidence": [
+      "Supplied news headline (source/date: Reuters, 2026-09-25) (not independently verified): \"Brent crude prices surge after major supply disruption\""
+    ],
+    "uncertainties": [
+      "Requires analyst verification: Limited information on the specific supply disruption",
+      "Requires analyst verification: No direct involvement of Yamaha in the energy sector or supply chain"
+    ],
+    "analyst_questions": [
+      "What is the potential impact on Yamaha's liquidity and debt maturities?",
+      "How does the global supply chain impact affect Yamaha's business operations?"
+    ],
+    "next_investigation_steps": [
+      "Review financial statements for potential exposure to price volatility",
+      "Assess Yamaha's pass-through ability and potential hedging strategies",
+      "Investigate historical periods of supply chain disruptions and their impact on energy markets"
+    ]
+  },
+  {
+    "event": "GENERAL-EVENT-001",
+    "company": "Maruthi",
+    "priority": "HIGH",
+    "executive_summary": "AI-generated interpretation (unverified): OPEC considers production cuts due to global supply tightness, potentially impacting energy markets and global supply chains.",
+    "market_event": "AI-generated interpretation; verify against original reporting: OPEC considers production cuts as global supply tightens",
+    "company_exposure": "AI-generated interpretation (unverified): Maruthi is not directly impacted by the event, as it operates in the automobile industry.",
+    "potential_impact_mechanism": "AI-generated interpretation (unverified): Global supply chain tightness and potential impact on energy markets.",
+    "potential_financial_areas": [
+      "Potential area to investigate: Energy",
+      "Potential area to investigate: Global supply chains"
+    ],
+    "known_evidence": [
+      "Supplied news headline (source/date: Reuters, 2026-09-25) (not independently verified): \"OPEC considers production cuts as global supply tightens\""
+    ],
+    "uncertainties": [
+      "Requires analyst verification: Current state of global supply chains",
+      "Requires analyst verification: Impact of OPEC's production cuts on energy markets",
+      "Requires analyst verification: Potential knock-on effects on other industries"
+    ],
+    "analyst_questions": [
+      "What is the current state of global supply chains?",
+      "How will OPEC's production cuts affect energy markets?",
+      "What are the potential knock-on effects on other industries?"
+    ],
+    "next_investigation_steps": [
+      "Review financial statements for potential exposure to energy markets or global supply chains",
+      "Assess pass-through ability and liquidity",
+      "Evaluate debt maturities and hedging strategies",
+      "Review historical periods for similar events or trends",
+      "Seek management commentary on potential impact of the event on the company's business"
+    ]
+  },
+  {
+    "event": "GENERAL-EVENT-001",
+    "company": "Yamaha",
+    "priority": "HIGH",
+    "executive_summary": "AI-generated interpretation (unverified): OPEC considers production cuts due to global supply tightness, potentially impacting energy markets and global supply chains.",
+    "market_event": "AI-generated interpretation; verify against original reporting: OPEC considers production cuts as global supply tightens",
+    "company_exposure": "AI-generated interpretation (unverified): Yamaha's business is focused on two-wheeler manufacturing, which is not directly related to energy markets or global supply chains.",
+    "potential_impact_mechanism": "AI-generated interpretation (unverified): Global supply chain tightness",
+    "potential_financial_areas": [
+      "Potential area to investigate: Energy"
+    ],
+    "known_evidence": [
+      "Supplied news headline (source/date: Reuters, 2026-09-25) (not independently verified): \"OPEC considers production cuts as global supply tightens\""
+    ],
+    "uncertainties": [
+      "Requires analyst verification: Current state of global supply chains",
+      "Requires analyst verification: Impact of OPEC's production cuts on energy markets",
+      "Requires analyst verification: Potential knock-on effects on other industries"
+    ],
+    "analyst_questions": [
+      "What is the current state of global supply chains?",
+      "How will OPEC's production cuts affect energy markets?",
+      "What are the potential knock-on effects on other industries?"
+    ],
+    "next_investigation_steps": [
+      "Review financial statements for potential exposure to energy markets",
+      "Assess pass-through ability and liquidity",
+      "Evaluate debt maturities and hedging strategies",
+      "Research historical periods and management commentary for insights on potential impact"
+    ]
+  },
+  {
+    "event": "Potentially Material Business Event",
+    "company": "Maruthi",
+    "priority": "MEDIUM",
+    "executive_summary": "AI-generated interpretation (unverified): Brent crude falls as demand concerns increase, potentially impacting the global energy market.",
+    "market_event": "AI-generated interpretation; verify against original reporting: Brent crude falls as demand concerns increase",
+    "company_exposure": "AI-generated interpretation (unverified): Maruthi operates in the automobile industry, which may be indirectly affected by changes in the global energy market.",
+    "potential_impact_mechanism": "AI-generated interpretation (unverified): Global energy market trends and potential impact on other industries",
+    "potential_financial_areas": [
+      "Potential area to investigate: Revenue exposure due to changes in energy prices"
+    ],
+    "known_evidence": [
+      "Supplied news headline (source/date: CNBC, 2026-09-25) (not independently verified): \"Brent crude falls as demand concerns increase\""
+    ],
+    "uncertainties": [
+      "Requires analyst verification: Demand concerns and their impact on the global energy market"
+    ],
+    "analyst_questions": [
+      "Verify demand concerns and their potential impact on the global energy market",
+      "Check global energy market trends and potential impact on other industries",
+      "Investigate potential financial exposure due to changes in energy prices"
+    ],
+    "next_investigation_steps": [
+      "Review financial statements for potential revenue exposure",
+      "Check cost/revenue exposure and pass-through ability",
+      "Investigate liquidity, debt maturities, and hedging strategies"
+    ]
+  },
+  {
+    "event": "Potentially Material Business Event",
+    "company": "Yamaha",
+    "priority": "MEDIUM",
+    "executive_summary": "AI-generated interpretation (unverified): A potentially material business event has occurred, with Brent crude falling due to increased demand concerns.",
+    "market_event": "AI-generated interpretation; verify against original reporting: Brent crude falls as demand concerns increase",
+    "company_exposure": "AI-generated interpretation (unverified): No direct connection between the event and Yamaha's business area.",
+    "potential_impact_mechanism": "AI-generated interpretation (unverified): Uncertain, but potential impact on other industries mentioned.",
+    "potential_financial_areas": [
+      "Potential area to investigate: Liquidity",
+      "Potential area to investigate: Debt maturities"
+    ],
+    "known_evidence": [
+      "Supplied news headline (source/date: CNBC, 2026-09-25) (not independently verified): \"Brent crude falls as demand concerns increase\""
+    ],
+    "uncertainties": [
+      "Requires analyst verification: Demand concerns",
+      "Requires analyst verification: Global energy market trends",
+      "Requires analyst verification: Potential impact on other industries"
+    ],
+    "analyst_questions": [
+      "Verify demand concerns",
+      "Check global energy market trends",
+      "Investigate potential impact on other industries"
+    ],
+    "next_investigation_steps": [
+      "Review financial statements for potential liquidity and debt maturity impacts",
+      "Investigate Yamaha's hedging strategies and pass-through ability",
+      "Verify demand concerns and their potential impact on the global energy market"
+    ]
+  },
+  {
+    "event": "GENERAL-EVENT-001",
+    "company": "Maruthi",
+    "priority": "HIGH",
+    "executive_summary": "AI-generated interpretation (unverified): Middle East tensions may impact global oil supply, potentially affecting Maruthi's energy-intensive industries.",
+    "market_event": "AI-generated interpretation; verify against original reporting: Middle East tensions raise concerns over global oil supply",
+    "company_exposure": "AI-generated interpretation (unverified): Maruthi is a four-wheeler manufacturer with potentially impacted energy-intensive industries.",
+    "potential_impact_mechanism": "AI-generated interpretation (unverified): Supply Chain Disruption",
+    "potential_financial_areas": [
+      "Potential area to investigate: Operating Costs",
+      "Potential area to investigate: Leverage",
+      "Potential area to investigate: Debt Servicing Capacity"
+    ],
+    "known_evidence": [
+      "Supplied news headline (source/date: BBC, 2026-09-24) (not independently verified): \"Middle East tensions raise concerns over global oil supply\""
+    ],
+    "uncertainties": [
+      "Requires analyst verification: Limited information on the potential impact of Middle East tensions on global oil supply",
+      "Requires analyst verification: Uncertainty around Maruthi's specific exposure to energy-intensive industries"
+    ],
+    "analyst_questions": [
+      "What is the potential impact of Middle East tensions on global oil supply?",
+      "How does Maruthi's energy-intensive industries exposure affect its operating costs, leverage, and debt servicing capacity?"
+    ],
+    "next_investigation_steps": [
+      "Review Maruthi's financial statements for potential exposure to energy-intensive industries",
+      "Investigate Maruthi's supply chain and its potential impact on energy-intensive industries",
+      "Assess Maruthi's debt maturities and leverage in the context of potential supply chain disruptions"
+    ]
+  },
+  {
+    "event": "GENERAL-EVENT-001",
+    "company": "Yamaha",
+    "priority": "HIGH",
+    "executive_summary": "AI-generated interpretation (unverified): Middle East tensions may impact global oil supply, potentially affecting Yamaha's energy-intensive operations.",
+    "market_event": "AI-generated interpretation; verify against original reporting: Middle East tensions raise concerns over global oil supply",
+    "company_exposure": "AI-generated interpretation (unverified): Yamaha is a two-wheeler manufacturer with energy-intensive operations.",
+    "potential_impact_mechanism": "AI-generated interpretation (unverified): Supply Chain Disruption",
+    "potential_financial_areas": [
+      "Potential area to investigate: Revenue",
+      "Potential area to investigate: Operating Costs",
+      "Potential area to investigate: EBITDA",
+      "Potential area to investigate: Operating Margin",
+      "Potential area to investigate: Liquidity",
+      "Potential area to investigate: Leverage",
+      "Potential area to investigate: Debt Servicing Capacity"
+    ],
+    "known_evidence": [
+      "Supplied news headline (source/date: BBC, 2026-09-24) (not independently verified): \"Middle East tensions raise concerns over global oil supply\""
+    ],
+    "uncertainties": [
+      "Requires analyst verification: Magnitude of potential impact on Yamaha's operations",
+      "Requires analyst verification: Specificity of supply chain disruption"
+    ],
+    "analyst_questions": [
+      "What is the likelihood of supply chain disruption affecting Yamaha's energy-intensive operations?",
+      "How will Yamaha's energy consumption be impacted by global oil supply disruptions?"
+    ],
+    "next_investigation_steps": [
+      "Review Yamaha's financial statements for potential revenue and operating cost impacts",
+      "Assess Yamaha's supply chain and energy consumption practices",
+      "Evaluate Yamaha's hedging strategies and debt maturities"
+    ]
+  },
+  {
+    "event": "Potentially Material Business Event",
+    "company": "Maruthi",
+    "priority": "HIGH",
+    "executive_summary": "AI-generated interpretation (unverified): Indian airlines face higher fuel costs due to rising crude prices, potentially impacting airline profitability and operations.",
+    "market_event": "AI-generated interpretation; verify against original reporting: Rising crude oil prices",
+    "company_exposure": "AI-generated interpretation (unverified): Maruthi is not directly exposed to the airline industry, but the event may impact airline profitability and operations, which could have a moderate to high impact on the company's business.",
+    "potential_impact_mechanism": "AI-generated interpretation (unverified): Higher fuel costs may impact airline profitability and operations, potentially affecting Maruthi's business.",
+    "potential_financial_areas": [
+      "Potential area to investigate: Airline profitability",
+      "Potential area to investigate: Operations"
+    ],
+    "known_evidence": [
+      "Supplied news headline (source/date: Economic Times, 2026-09-24) (not independently verified): \"Indian airlines face higher fuel costs as crude prices rise\""
+    ],
+    "uncertainties": [
+      "Requires analyst verification: The extent of the impact on Maruthi's business is unknown without further investigation."
+    ],
+    "analyst_questions": [
+      "What is the pass-through ability of fuel costs to Maruthi's business?",
+      "What are Maruthi's hedging strategies to mitigate potential fuel cost impacts?",
+      "What are Maruthi's liquidity levels and debt maturities to assess potential financial impact?"
+    ],
+    "next_investigation_steps": [
+      "Review Maruthi's financial statements to assess potential fuel cost impacts",
+      "Investigate Maruthi's hedging strategies and pass-through ability",
+      "Assess Maruthi's liquidity levels and debt maturities"
+    ]
+  },
+  {
+    "event": "Potentially Material Business Event",
+    "company": "Yamaha",
+    "priority": "HIGH",
+    "executive_summary": "AI-generated interpretation (unverified): Indian airlines face higher fuel costs due to rising crude oil prices, potentially impacting airline profitability and operations.",
+    "market_event": "AI-generated interpretation; verify against original reporting: Rising crude oil prices",
+    "company_exposure": "AI-generated interpretation (unverified): None",
+    "potential_impact_mechanism": "AI-generated interpretation (unverified): Higher fuel costs may impact airline profitability and operations",
+    "potential_financial_areas": [
+      "Potential area to investigate: Airline profitability"
+    ],
+    "known_evidence": [
+      "Supplied news headline (source/date: Economic Times, 2026-09-24) (not independently verified): \"Indian airlines face higher fuel costs as crude prices rise\""
+    ],
+    "uncertainties": [
+      "Requires analyst verification: Direct connection between the event and Yamaha's business area",
+      "Requires analyst verification: Potential financial impact on Yamaha"
+    ],
+    "analyst_questions": [
+      "Is Yamaha exposed to the airline industry through any business area or partnerships?",
+      "What is Yamaha's current exposure to crude oil prices and airline profitability?"
+    ],
+    "next_investigation_steps": [
+      "Review Yamaha's financial statements for any potential exposure to airline profitability",
+      "Assess Yamaha's business area and partnerships for potential connection to the airline industry",
+      "Evaluate Yamaha's hedging strategies and potential impact on financial exposure"
+    ]
+  },
+  {
+    "event": "GENERAL-EVENT-001",
+    "company": "Maruthi",
+    "priority": "MEDIUM",
+    "executive_summary": "AI-generated interpretation (unverified): Investors expect lower interest rates, causing technology stocks to rise.",
+    "market_event": "AI-generated interpretation; verify against original reporting: Investors expect lower interest rates, causing technology stocks to rise",
+    "company_exposure": "AI-generated interpretation (unverified): Maruthi is not directly mentioned as being affected by the event.",
+    "potential_impact_mechanism": "AI-generated interpretation (unverified): Investor expectations may influence economic growth and market trends.",
+    "potential_financial_areas": [
+      "Potential area to investigate: Revenue exposure",
+      "Potential area to investigate: Liquidity"
+    ],
+    "known_evidence": [
+      "Supplied news headline (source/date: CNBC, 2026-09-24) (not independently verified): \"Technology stocks rise as investors expect lower interest rates\""
+    ],
+    "uncertainties": [
+      "Requires analyst verification: Direct connection between the event and the company's business area or financials is not evident",
+      "Requires analyst verification: Impact on the technology and finance industries is not directly related to the automobile industry or the company's four-wheeler manufacturing business"
+    ],
+    "analyst_questions": [
+      "How may investor sentiment influence Maruthi's revenue exposure?",
+      "What is the potential impact of interest rate expectations on Maruthi's liquidity?"
+    ],
+    "next_investigation_steps": [
+      "Review financial statements for Maruthi",
+      "Investigate pass-through ability of interest rate expectations to Maruthi's financials",
+      "Assess liquidity and potential financial impact on Maruthi"
+    ]
+  },
+  {
+    "event": "GENERAL-EVENT-001",
+    "company": "Yamaha",
+    "priority": "MEDIUM",
+    "executive_summary": "AI-generated interpretation (unverified): Investors expect lower interest rates, causing technology stocks to rise.",
+    "market_event": "AI-generated interpretation; verify against original reporting: Investors expect lower interest rates, causing technology stocks to rise",
+    "company_exposure": "AI-generated interpretation (unverified): Yamaha's automobile manufacturing business may be indirectly affected by changes in interest rates and technology stocks.",
+    "potential_impact_mechanism": "AI-generated interpretation (unverified): Investor expectations and interest rate expectations may influence economic growth and market trends.",
+    "potential_financial_areas": [
+      "Potential area to investigate: Cost of capital",
+      "Potential area to investigate: Revenue from technology-related products"
+    ],
+    "known_evidence": [
+      "Supplied news headline (source/date: CNBC, 2026-09-24) (not independently verified): \"Technology stocks rise as investors expect lower interest rates\""
+    ],
+    "uncertainties": [
+      "Requires analyst verification: Direct connection between the event and Yamaha's business area or financials is unclear",
+      "Requires analyst verification: Potential impact on Yamaha's automobile manufacturing business is uncertain"
+    ],
+    "analyst_questions": [
+      "What is the potential impact of lower interest rates on Yamaha's cost of capital?",
+      "How may investor sentiment influence Yamaha's revenue from technology-related products?"
+    ],
+    "next_investigation_steps": [
+      "Review financial statements for cost of capital and revenue from technology-related products",
+      "Investigate investor sentiment and interest rate expectations",
+      "Assess potential impact on Yamaha's automobile manufacturing business"
+    ]
+  },
+  {
+    "event": "Potentially Material Business Event",
+    "company": "Maruthi",
+    "priority": "MEDIUM",
+    "executive_summary": "AI-generated interpretation (unverified): Global steel demand expected to increase next year, potentially impacting steel prices and industry operations.",
+    "market_event": "AI-generated interpretation; verify against original reporting: Global steel demand expected to increase next year",
+    "company_exposure": "AI-generated interpretation (unverified): Maruthi operates in the Automobile industry, which may be indirectly affected by changes in steel prices and industry operations.",
+    "potential_impact_mechanism": "AI-generated interpretation (unverified): Increased demand for steel may impact steel prices and industry operations.",
+    "potential_financial_areas": [
+      "Potential area to investigate: Cost of Goods Sold",
+      "Potential area to investigate: Operating Expenses"
+    ],
+    "known_evidence": [
+      "Supplied news headline (source/date: Reuters, 2026-09-23) (not independently verified): \"Global steel demand expected to increase next year\""
+    ],
+    "uncertainties": [
+      "Requires analyst verification: Magnitude of potential impact on Maruthi's operations and financials",
+      "Requires analyst verification: Potential supply chain disruptions and their impact on Maruthi's supply chain"
+    ],
+    "analyst_questions": [
+      "What is the expected impact of increased steel demand on steel prices?",
+      "How may supply chain disruptions affect Maruthi's operations and financials?"
+    ],
+    "next_investigation_steps": [
+      "Review Maruthi's financial statements for potential exposure to steel price fluctuations",
+      "Assess Maruthi's supply chain and potential vulnerabilities to supply chain disruptions",
+      "Analyze Maruthi's historical periods for any previous exposure to steel price fluctuations or supply chain disruptions"
+    ]
+  },
+  {
+    "event": "Potentially Material Business Event",
+    "company": "Yamaha",
+    "priority": "MEDIUM",
+    "executive_summary": "AI-generated interpretation (unverified): Global steel demand expected to increase next year, potentially impacting steel prices and industry operations.",
+    "market_event": "AI-generated interpretation; verify against original reporting: Global steel demand expected to increase next year",
+    "company_exposure": "AI-generated interpretation (unverified): No direct connection between Yamaha's automobile industry and the global steel demand increase.",
+    "potential_impact_mechanism": "AI-generated interpretation (unverified): None identified",
+    "potential_financial_areas": [
+      "Potential area to investigate: Steel industry trends",
+      "Potential area to investigate: Supply chain disruptions",
+      "Potential area to investigate: Global steel market analysis"
+    ],
+    "known_evidence": [
+      "Supplied news headline (source/date: Reuters, 2026-09-23) (not independently verified): \"Global steel demand expected to increase next year\""
+    ],
+    "uncertainties": [
+      "Requires analyst verification: Lack of direct connection between Yamaha's automobile industry and the global steel demand increase",
+      "Requires analyst verification: No indication of potential supply chain disruptions or steel industry involvement in Yamaha's operations"
+    ],
+    "analyst_questions": [
+      "Verify the potential impact of the global steel demand increase on Yamaha's automobile industry",
+      "Assess the likelihood of supply chain disruptions or steel industry involvement in Yamaha's operations",
+      "Review Yamaha's steel industry trends and potential exposure to the global steel market"
+    ],
+    "next_investigation_steps": [
+      "Review Yamaha's financial statements for potential exposure to the global steel market",
+      "Assess Yamaha's cost and revenue exposure to the global steel demand increase",
+      "Evaluate Yamaha's pass-through ability and potential financial impact on the company"
+    ]
+  },
+  {
+    "event": "Potentially Material Business Event",
+    "company": "Maruthi",
+    "priority": "HIGH",
+    "executive_summary": "AI-generated interpretation (unverified): Oil prices jumped following attacks on major pipeline infrastructure, potentially impacting energy markets.",
+    "market_event": "AI-generated interpretation; verify against original reporting: Oil prices jumped following attacks on major pipeline infrastructure",
+    "company_exposure": "AI-generated interpretation (unverified): Maruthi's four-wheeler manufacturing operations may be indirectly affected by potential supply chain disruptions in the energy sector.",
+    "potential_impact_mechanism": "AI-generated interpretation (unverified): Potential supply chain disruption in the energy sector could impact energy markets.",
+    "potential_financial_areas": [
+      "Potential area to investigate: Energy",
+      "Potential area to investigate: Supply Chain"
+    ],
+    "known_evidence": [
+      "Supplied news headline (source/date: Reuters, 2026-09-23) (not independently verified): \"Oil prices jump following attacks on major pipeline infrastructure\""
+    ],
+    "uncertainties": [
+      "Requires analyst verification: Direct connection between the event and Maruthi's business area or industry is not evident",
+      "Requires analyst verification: Potential impact on global energy supply is unclear"
+    ],
+    "analyst_questions": [
+      "How will potential supply chain disruptions in the energy sector impact Maruthi's four-wheeler manufacturing operations?",
+      "What is the potential impact on global energy supply, and how will it affect Maruthi's business?"
+    ],
+    "next_investigation_steps": [
+      "Review financial statements for potential exposure to energy market fluctuations",
+      "Investigate pipeline infrastructure security measures and potential impact on global energy supply",
+      "Check for any other attacks on pipeline infrastructure and assess potential supply chain disruptions"
+    ]
+  },
+  {
+    "event": "Potentially Material Business Event",
+    "company": "Yamaha",
+    "priority": "HIGH",
+    "executive_summary": "AI-generated interpretation (unverified): Oil prices jumped following attacks on major pipeline infrastructure, potentially impacting energy markets.",
+    "market_event": "AI-generated interpretation; verify against original reporting: Oil prices jumped following attacks on major pipeline infrastructure",
+    "company_exposure": "AI-generated interpretation (unverified): No direct connection between Yamaha's business and the energy market.",
+    "potential_impact_mechanism": "AI-generated interpretation (unverified): Potential supply chain disruption could impact energy markets",
+    "potential_financial_areas": [
+      "Potential area to investigate: Energy"
+    ],
+    "known_evidence": [
+      "Supplied news headline (source/date: Reuters, 2026-09-23) (not independently verified): \"Oil prices jump following attacks on major pipeline infrastructure\""
+    ],
+    "uncertainties": [
+      "Requires analyst verification: Lack of direct connection between Yamaha's business and the energy market",
+      "Requires analyst verification: Limited information on pipeline infrastructure security measures and potential impact on global energy supply"
+    ],
+    "analyst_questions": [
+      "Verify the impact of pipeline infrastructure security measures on global energy supply",
+      "Assess the potential supply chain disruption on energy markets",
+      "Check for any other attacks on pipeline infrastructure"
+    ],
+    "next_investigation_steps": [
+      "Review financial statements for potential exposure to energy market fluctuations",
+      "Investigate pipeline infrastructure security measures and potential impact on global energy supply",
+      "Check for any other attacks on pipeline infrastructure"
+    ]
+  },
+  {
+    "event": "Potentially Material Business Event",
+    "company": "Maruthi",
+    "priority": "MEDIUM",
+    "executive_summary": "AI-generated interpretation (unverified): Gold prices decline as investors shift towards equities, potentially impacting mining and precious metals industries.",
+    "market_event": "AI-generated interpretation; verify against original reporting: Gold prices decline as investors move toward equities",
+    "company_exposure": "AI-generated interpretation (unverified): Maruthi has no direct connection to the mining and precious metals industries.",
+    "potential_impact_mechanism": "AI-generated interpretation (unverified): Investor sentiment shift may impact mining and precious metals industries, but no direct connection to Maruthi's business.",
+    "potential_financial_areas": [
+      "Potential area to investigate: Mining",
+      "Potential area to investigate: Precious Metals"
+    ],
+    "known_evidence": [
+      "Supplied news headline (source/date: Bloomberg, 2026-09-22) (not independently verified): \"Gold prices decline as investors move toward equities\""
+    ],
+    "uncertainties": [
+      "Requires analyst verification: Cause of investor sentiment shift",
+      "Requires analyst verification: Underlying economic conditions influencing investor preference",
+      "Requires analyst verification: Potential impact on mining and precious metals industries"
+    ],
+    "analyst_questions": [
+      "What is the cause of the investor sentiment shift?",
+      "How will the shift impact the mining and precious metals industries?",
+      "What are the underlying economic conditions that may be influencing the investor preference?"
+    ],
+    "next_investigation_steps": [
+      "Review financial statements for Maruthi to assess potential pass-through ability",
+      "Evaluate cost/revenue exposure and liquidity for Maruthi",
+      "Assess debt maturities and hedging strategies for Maruthi",
+      "Research historical periods and management commentary for Maruthi to understand potential impact"
+    ]
+  },
+  {
+    "event": "Potentially Material Business Event",
+    "company": "Yamaha",
+    "priority": "MEDIUM",
+    "executive_summary": "AI-generated interpretation (unverified): Gold prices decline as investors shift towards equities, potentially impacting the Mining and Precious Metals industries.",
+    "market_event": "AI-generated interpretation; verify against original reporting: Gold prices decline as investors move toward equities",
+    "company_exposure": "AI-generated interpretation (unverified): Yamaha is not directly related to the Mining or Precious Metals industries.",
+    "potential_impact_mechanism": "AI-generated interpretation (unverified): Investor sentiment shift may impact the Mining and Precious Metals industries.",
+    "potential_financial_areas": [
+      "Potential area to investigate: Mining",
+      "Potential area to investigate: Precious Metals"
+    ],
+    "known_evidence": [
+      "Supplied news headline (source/date: Bloomberg, 2026-09-22) (not independently verified): \"Gold prices decline as investors move toward equities\""
+    ],
+    "uncertainties": [
+      "Requires analyst verification: Underlying cause of investor sentiment shift",
+      "Requires analyst verification: Potential impact on Mining and Precious Metals industries",
+      "Requires analyst verification: Connection between Yamaha's business and the event"
+    ],
+    "analyst_questions": [
+      "What is the cause of the investor sentiment shift?",
+      "How will the shift impact the Mining and precious metals industries?",
+      "What are the underlying economic conditions that may be influencing the investor preference?"
+    ],
+    "next_investigation_steps": [
+      "Review financial statements for Yamaha",
+      "Assess pass-through ability and liquidity",
+      "Evaluate debt maturities and hedging strategies",
+      "Research historical periods and management commentary"
+    ]
+  },
+  {
+    "event": "GENERAL-EVENT-001",
+    "company": "Maruthi",
+    "priority": "MEDIUM",
+    "executive_summary": "AI-generated interpretation (unverified): OPEC maintains current production levels amid stable demand",
+    "market_event": "AI-generated interpretation; verify against original reporting: OPEC maintains current production levels amid stable demand",
+    "company_exposure": "AI-generated interpretation (unverified): None",
+    "potential_impact_mechanism": "AI-generated interpretation (unverified): Stable demand could impact oil prices and global energy markets",
+    "potential_financial_areas": [
+      "Potential area to investigate: Energy"
+    ],
+    "known_evidence": [
+      "Supplied news headline (source/date: Reuters, 2026-09-22) (not independently verified): \"OPEC maintains current production levels amid stable demand\""
+    ],
+    "uncertainties": [
+      "Requires analyst verification: OPEC production levels",
+      "Requires analyst verification: Global energy market trends"
+    ],
+    "analyst_questions": [
+      "What is the impact of stable demand on oil prices?",
+      "How does OPEC's production level affect the global energy market?"
+    ],
+    "next_investigation_steps": [
+      "Review financial statements for energy exposure",
+      "Assess pass-through ability for energy-related costs",
+      "Evaluate liquidity and debt maturities",
+      "Analyze hedging strategies and historical periods",
+      "Review management commentary on energy market trends"
+    ]
+  },
+  {
+    "event": "GENERAL-EVENT-001",
+    "company": "Yamaha",
+    "priority": "MEDIUM",
+    "executive_summary": "AI-generated interpretation (unverified): OPEC maintains current production levels amid stable demand",
+    "market_event": "AI-generated interpretation; verify against original reporting: OPEC maintains current production levels amid stable demand",
+    "company_exposure": "AI-generated interpretation (unverified): No direct connection between Yamaha's business and the event's potentially affected industries (Energy).",
+    "potential_impact_mechanism": "AI-generated interpretation (unverified): None",
+    "potential_financial_areas": [
+      "Potential area to investigate: Liquidity",
+      "Potential area to investigate: Debt maturities"
+    ],
+    "known_evidence": [
+      "Supplied news headline (source/date: Reuters, 2026-09-22) (not independently verified): \"OPEC maintains current production levels amid stable demand\""
+    ],
+    "uncertainties": [
+      "Requires analyst verification: OPEC production levels",
+      "Requires analyst verification: Global energy market trends"
+    ],
+    "analyst_questions": [
+      "What is the impact of stable demand on OPEC production levels?",
+      "How does Yamaha's automobile industry relate to global energy markets?"
+    ],
+    "next_investigation_steps": [
+      "Review financial statements for potential liquidity exposure",
+      "Assess Yamaha's debt maturities and pass-through ability",
+      "Investigate OPEC production levels and global energy market trends"
+    ]
+  },
+  {
+    "event": "GENERAL-EVENT-001",
+    "company": "Maruthi",
+    "priority": "MEDIUM",
+    "executive_summary": "AI-generated interpretation (unverified): Steel production in India has been halted due to a raw material shortage, potentially affecting 4-wheeler manufacturing companies, including Maruthi.",
+    "market_event": "AI-generated interpretation; verify against original reporting: Steel production in India halted due to raw material shortage",
+    "company_exposure": "AI-generated interpretation (unverified): Maruthi is a four-wheeler manufacturer, potentially impacted by supply chain disruptions",
+    "potential_impact_mechanism": "AI-generated interpretation (unverified): Supply Chain Disruption",
+    "potential_financial_areas": [
+      "Potential area to investigate: Operating Costs",
+      "Potential area to investigate: Liquidity"
+    ],
+    "known_evidence": [
+      "Supplied news headline (source/date: TOI) (not independently verified): \"Steel production in India is stoppeed because of raw material shoratage, this has impact on all 4 wheeler manufacturing companies\""
+    ],
+    "uncertainties": [
+      "Requires analyst verification: Raw material prices",
+      "Requires analyst verification: Global supply chain impact",
+      "Requires analyst verification: Debt servicing capacity"
+    ],
+    "analyst_questions": [
+      "Raw material prices",
+      "Global supply chain impact",
+      "Debt servicing capacity"
+    ],
+    "next_investigation_steps": [
+      "Review financial statements for operating costs and liquidity",
+      "Assess pass-through ability and potential impact on revenue and EBITDA",
+      "Evaluate debt maturities and hedging strategies",
+      "Review management commentary on raw material prices and supply chain disruptions"
+    ]
+  },
+  {
+    "event": "GENERAL-EVENT-001",
+    "company": "Yamaha",
+    "priority": "MEDIUM",
+    "executive_summary": "AI-generated interpretation (unverified): Steel production in India halted due to raw material shortage, affecting 4 wheeler manufacturing companies",
+    "market_event": "AI-generated interpretation; verify against original reporting: Steel production in India halted due to raw material shortage",
+    "company_exposure": "AI-generated interpretation (unverified): Yamaha is a 4 wheeler manufacturing company that may be impacted by the steel production halt",
+    "potential_impact_mechanism": "AI-generated interpretation (unverified): Supply Chain Disruption",
+    "potential_financial_areas": [
+      "Potential area to investigate: Operating Costs",
+      "Potential area to investigate: Liquidity"
+    ],
+    "known_evidence": [
+      "Supplied news headline (source/date: TOI) (not independently verified): \"Steel production in India is stoppeed because of raw material shoratage, this has impact on all 4 wheeler manufacturing companies\""
+    ],
+    "uncertainties": [
+      "Requires analyst verification: Raw material prices",
+      "Requires analyst verification: Global supply chain impact"
+    ],
+    "analyst_questions": [
+      "What is the impact of raw material prices on Yamaha's operating costs and liquidity?",
+      "How will the global supply chain impact Yamaha's financials?"
+    ],
+    "next_investigation_steps": [
+      "Review financial statements for operating costs and liquidity",
+      "Assess pass-through ability and potential debt servicing capacity",
+      "Investigate raw material prices and global supply chain impact on Yamaha's business"
+    ]
+  },
+  {
+    "event": "Potentially Material Business Event",
+    "company": "Maruthi",
+    "priority": "HIGH",
+    "executive_summary": "AI-generated interpretation (unverified): Maruthi manufacturing is impacted by a steel price hike, which could have significant effects on the company's operations and financials.",
+    "market_event": "AI-generated interpretation; verify against original reporting: Steel price hike",
+    "company_exposure": "AI-generated interpretation (unverified): Maruthi is a Four-Wheeler Manufacturer, which is a business area that could be impacted by the steel price hike.",
+    "potential_impact_mechanism": "AI-generated interpretation (unverified): Raw materials",
+    "potential_financial_areas": [
+      "Potential area to investigate: Operating costs",
+      "Potential area to investigate: EBITDA",
+      "Potential area to investigate: Operating margin",
+      "Potential area to investigate: Cash flow",
+      "Potential area to investigate: Working capital"
+    ],
+    "known_evidence": [
+      "Supplied news headline (source/date: TOI, 02-10-2026) (not independently verified): \"Maruthi manufacturing is impacted because of  steel proce hike\""
+    ],
+    "uncertainties": [
+      "Requires analyst verification: Price direction and potential impact on Maruthi's operations and financials",
+      "Requires analyst verification: Current steel price and its impact on Maruthi's operations",
+      "Requires analyst verification: Relationship between Maruthi and its suppliers of steel",
+      "Requires analyst verification: Regulatory or policy changes that could impact the steel industry or Maruthi's operations"
+    ],
+    "analyst_questions": [
+      "What is the current steel price and its impact on Maruthi's operations?",
+      "How will Maruthi manufacturing adapt to the price hike?",
+      "What is the potential impact on Maruthi's financials and overall business?",
+      "Are there any other industries or companies that could be affected by the steel price hike?",
+      "What is the current relationship between Maruthi and its suppliers of steel?",
+      "Are there any regulatory or policy changes that could impact the steel industry or Maruthi's operations?"
+    ],
+    "next_investigation_steps": [
+      "Review financial statements to assess potential impact on operating costs, EBITDA, operating margin, cash flow, and working capital",
+      "Investigate Maruthi's relationship with its suppliers of steel and potential hedging strategies",
+      "Research regulatory or policy changes that could impact the steel industry or Maruthi's operations",
+      "Analyze Maruthi's manufacturing process and potential adaptations to the steel price hike"
+    ]
+  },
+  {
+    "event": "Potentially Material Business Event",
+    "company": "Yamaha",
+    "priority": "HIGH",
+    "executive_summary": "AI-generated interpretation (unverified): Maruthi manufacturing is impacted by a steel price hike, which could have a significant impact on Yamaha's operations and financials as it is in the Automotive industry.",
+    "market_event": "AI-generated interpretation; verify against original reporting: Steel price hike",
+    "company_exposure": "AI-generated interpretation (unverified): Yamaha is in the Automotive industry, which is potentially affected by the steel price hike.",
+    "potential_impact_mechanism": "AI-generated interpretation (unverified): Raw materials",
+    "potential_financial_areas": [
+      "Potential area to investigate: Operating costs",
+      "Potential area to investigate: EBITDA",
+      "Potential area to investigate: Operating margin"
+    ],
+    "known_evidence": [
+      "Supplied news headline (source/date: TOI, 02-10-2026) (not independently verified): \"Maruthi manufacturing is impacted because of  steel proce hike\""
+    ],
+    "uncertainties": [
+      "Requires analyst verification: Price direction",
+      "Requires analyst verification: Potential impact on Maruthi's operations and financials",
+      "Requires analyst verification: Current relationship between Yamaha and its suppliers of steel",
+      "Requires analyst verification: Regulatory or policy changes that could impact the steel industry or Yamaha's operations"
+    ],
+    "analyst_questions": [
+      "What is the current steel price and its impact on Yamaha's operations?",
+      "How will Yamaha manufacturing adapt to the price hike?",
+      "What is the potential impact on Yamaha's financials and overall business?",
+      "Are there any other industries or companies that could be affected by the steel price hike?",
+      "What is the current relationship between Yamaha and its suppliers of steel?",
+      "Are there any regulatory or policy changes that could impact the steel industry or Yamaha's operations?"
+    ],
+    "next_investigation_steps": [
+      "Review financial statements for Yamaha",
+      "Cost/revenue exposure analysis",
+      "Pass-through ability analysis",
+      "Liquidity analysis",
+      "Debt maturities analysis",
+      "Hedging analysis",
+      "Historical periods analysis",
+      "Management commentary analysis"
+    ]
+  }
+]

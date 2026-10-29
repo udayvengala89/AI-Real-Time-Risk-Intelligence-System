@@ -1,0 +1,207 @@
+[
+  {
+    "article_id": "1",
+    "event_type": "Potentially Material Business Event",
+    "assessment": "{\"happened\": \"Brent crude prices surged due to a major supply disruption\", \"underlying cause\": \"Supply chain disruption\", \"why it matters\": \"Global energy markets and prices could be impacted\", \"significance\": \"High\", \"affected_industries\": \"Energy\", \"additional_info\": \"Global supply chain impact, potential price volatility\", \"priority\": \"HIGH\"}",
+    "background": "{\"cause\": \"Supply chain disruption\", \"potentially_affected_geographies\": \"Global\", \"potentially_affected_industries\": \"Energy\"}}",
+    "significance": "High",
+    "potentially_affected_industries": [
+      "Energy"
+    ],
+    "analyst_investigation_points": [
+      "Global supply chain impact",
+      "Potential price volatility",
+      "Industry-specific impact assessment"
+    ],
+    "priority": "HIGH",
+    "reason_for_priority": "High potential impact on global energy markets and prices."
+  },
+  {
+    "article_id": "2",
+    "event_type": "GENERAL-EVENT-001",
+    "assessment": "{\"happened\": \"OPEC considers production cuts due to global supply tightness\", \"underlying cause\": \"Global supply chain tightness\", \"why it matters\": \"Potential impact on energy markets and global supply chain\", \"significance\": \"High\", \"affected_industries\": \"Energy\", \"additional_info\": \"Global supply chain tightness\", \"priority\": \"HIGH\"}",
+    "background": "{\"cause\": \"Global supply chain tightness\", \"price_direction\": \"unclear\", \"affected_geographies\": \"Global\", \"potentially_affected_industries\": \"Energy\"}}",
+    "significance": "High",
+    "potentially_affected_industries": [
+      "Energy"
+    ],
+    "analyst_investigation_points": [
+      "What is the current state of global supply chains?",
+      "How will OPEC's production cuts affect energy markets?",
+      "What are the potential knock-on effects on other industries?"
+    ],
+    "priority": "HIGH",
+    "reason_for_priority": "Potential impact on energy markets and global supply chain"
+  },
+  {
+    "article_id": "3",
+    "event_type": "Potentially Material Business Event",
+    "assessment": "{\"happened\": \"Brent crude falls as demand concerns increase\", \"underlying cause\": \"Demand concerns\", \"why it matters\": \"Global energy market could be impacted\", \"significance\": \"Moderate\", \"affected_industries\": \"Energy\", \"additional_info\": \"Investigate global energy market trends and potential impact on other industries\", \"priority\": \"MEDIUM\"}",
+    "background": "{\"id\": \"3\", \"headline\": \"Brent crude falls as demand concerns increase\", \"source\": \"CNBC\", \"date\": \"2026-09-25\", \"url\": \"https://example.com/3\"}",
+    "significance": "Moderate",
+    "potentially_affected_industries": [
+      "Energy"
+    ],
+    "analyst_investigation_points": [
+      "Check global energy market trends",
+      "Investigate potential impact on other industries",
+      "Verify demand concerns"
+    ],
+    "priority": "MEDIUM",
+    "reason_for_priority": "Moderate significance and potential impact on global energy market"
+  },
+  {
+    "article_id": "4",
+    "event_type": "GENERAL-EVENT-001",
+    "assessment": "{\"happened\": \"Middle East tensions may impact global oil supply\", \"underlying cause\": \"Geopolitical developments\", \"why matter\": \"Global oil supply is critical for many industries\", \"significance\": \"High\", \"potentially affected industries\": \"[\"Energy\"]\", \"additional information\": \"Investigate geopolitical developments in the Middle East\", \"priority\": \"HIGH\"}",
+    "background": "{\"id\": \"4\", \"headline\": \"Middle East tensions raise concerns over global oil supply\", \"source\": \"BBC\", \"date\": \"2026-09-24\", \"url\": \"https://example.com/4\"}",
+    "significance": "High",
+    "potentially_affected_industries": [
+      "Energy"
+    ],
+    "analyst_investigation_points": [
+      "Geopolitical developments in the Middle East",
+      "Global oil supply impact on industries"
+    ],
+    "priority": "HIGH",
+    "reason_for_priority": "High potential impact on global oil supply and industries affected."
+  },
+  {
+    "article_id": "5",
+    "event_type": "Potentially Material Business Event",
+    "assessment": "{\"happened\": \"Indian airlines face higher fuel costs due to rising crude prices\", \"underlying cause\": \"Rising crude oil prices\", \"why it matters\": \"Higher fuel costs may impact airline profitability and operations\", \"significance\": \"Moderate to High\", \"affected_industries\": \"Airlines\", \"additional_info\": \"Crude oil prices, airline profitability, operations\", \"priority\": \"HIGH\"}",
+    "background": "{\"event_type\": \"Potentially Material Business Event\", \"rule_id\": \"GENERAL-EVENT-001\"}",
+    "significance": "Moderate to High",
+    "potentially_affected_industries": [
+      "Airlines"
+    ],
+    "analyst_investigation_points": [
+      "Crude oil prices",
+      "Airline profitability",
+      "Operations"
+    ],
+    "priority": "HIGH",
+    "reason_for_priority": "Higher fuel costs may impact airline profitability and operations"
+  },
+  {
+    "article_id": "6",
+    "event_type": "GENERAL-EVENT-001",
+    "assessment": "{\"happened\": \"Investors expect lower interest rates, causing technology stocks to rise\", \"underlying cause\": \"Investor expectations\", \"why it matters\": \"Investor expectations may influence economic growth and market trends\", \"significance\": \"Moderate\", \"potentially affected industries\": \"[\"Technology\", \"Finance\"]\", \"additional information to investigate\": \"[\"Investor sentiment\", \"Interest rate expectations\"]\", \"priority\": \"MEDIUM\"}",
+    "background": "Investor expectations may influence economic growth and market trends.",
+    "significance": "Moderate",
+    "potentially_affected_industries": [
+      "Technology",
+      "Finance"
+    ],
+    "analyst_investigation_points": [
+      "Investor sentiment",
+      "Interest rate expectations"
+    ],
+    "priority": "MEDIUM",
+    "reason_for_priority": "Moderate significance and potential impact on economic growth and market trends."
+  },
+  {
+    "article_id": "7",
+    "event_type": "Potentially Material Business Event",
+    "assessment": "{\"happened\": \"Global steel demand expected to increase next year\", \"underlying cause\": \"Increased demand\", \"why it matters\": \"Steel prices and industry operations may be impacted\", \"significance\": \"Moderate\", \"affected_industries\": \"Steel\", \"additional_info\": \"Investigate steel industry trends and potential supply chain disruptions\", \"priority\": \"MEDIUM\"}",
+    "background": "{\"cause\": \"Increased demand\", \"price_direction\": \"none\", \"affected_geographies\": \"Global\", \"potentially_affected_industries\": \"Steel\"}",
+    "significance": "Moderate",
+    "potentially_affected_industries": [
+      "Steel"
+    ],
+    "analyst_investigation_points": [
+      "Steel industry trends",
+      "Supply chain disruptions",
+      "Global steel market analysis"
+    ],
+    "priority": "MEDIUM",
+    "reason_for_priority": "Moderate significance and potential impact on steel industry operations"
+  },
+  {
+    "article_id": "8",
+    "event_type": "Potentially Material Business Event",
+    "assessment": "{\"happened\": \"Oil prices jump following attacks on major pipeline infrastructure\", \"underlying cause\": \"Attacks on pipeline infrastructure\", \"why it matters\": \"Potential supply chain disruption could impact energy markets\", \"significance\": \"High\", \"affected_industries\": \"[\"Energy\"]\", \"additional_info\": \"Investigate pipeline infrastructure security measures and potential impact on global energy supply\", \"priority\": \"HIGH\"}",
+    "background": "{\"id\": \"8\", \"headline\": \"Oil prices jump following attacks on major pipeline infrastructure\", \"source\": \"Reuters\", \"date\": \"2026-09-23\", \"url\": \"https://example.com/8\"}",
+    "significance": "High",
+    "potentially_affected_industries": [
+      "Energy"
+    ],
+    "analyst_investigation_points": [
+      "Investigate pipeline infrastructure security measures",
+      "Investigate potential impact on global energy supply",
+      "Check for any other attacks on pipeline infrastructure"
+    ],
+    "priority": "HIGH",
+    "reason_for_priority": "Potential supply chain disruption could have significant impact on energy markets"
+  },
+  {
+    "article_id": "9",
+    "event_type": "Potentially Material Business Event",
+    "assessment": "{\"happened\": \"Gold prices decline as investors shift towards equities\", \"underlying cause\": \"Investor sentiment shift\", \"why matter\": \"Shift in investor preference could impact mining and precious metals industries\", \"significance\": \"Moderate\", \"affected_industries\": \"[\"Mining\", \"Precious Metals\"]\", \"additional_info\": \"Investor sentiment shift could be influenced by economic conditions, interest rates, and market trends\", \"priority\": \"MEDIUM\"}",
+    "background": "{\"event_type\": \"Potentially Material Business Event\", \"rule_id\": \"GENERAL-EVENT-001\"}",
+    "significance": "Moderate",
+    "potentially_affected_industries": [
+      "Mining",
+      "Precious Metals"
+    ],
+    "analyst_investigation_points": [
+      "What is the cause of the investor sentiment shift?",
+      "How will the shift impact the mining and precious metals industries?",
+      "What are the underlying economic conditions that may be influencing the investor preference?"
+    ],
+    "priority": "MEDIUM",
+    "reason_for_priority": "The event has moderate significance and potential impact on the industries affected, but the underlying cause and potential consequences are not yet fully understood."
+  },
+  {
+    "article_id": "10",
+    "event_type": "GENERAL-EVENT-001",
+    "assessment": "{\"happened\": \"OPEC maintains current production levels amid stable demand\", \"underlying cause\": \"stable demand\", \"why it matters\": \"Stable demand could impact oil prices and global energy markets\", \"significance\": \"Moderate\", \"potentially affected industries\": \"Energy\", \"additional information needed\": \"OPEC production levels, global energy market trends\", \"priority\": \"MEDIUM\"}",
+    "background": "{\"id\": \"10\", \"headline\": \"OPEC maintains current production levels amid stable demand\", \"source\": \"Reuters\", \"date\": \"2026-09-22\", \"url\": \"https://example.com/10\"}",
+    "significance": "Moderate",
+    "potentially_affected_industries": [
+      "Energy"
+    ],
+    "analyst_investigation_points": [
+      "OPEC production levels",
+      "Global energy market trends"
+    ],
+    "priority": "MEDIUM",
+    "reason_for_priority": "Investigation is not urgent, but may provide valuable context for future events."
+  },
+  {
+    "article_id": "11",
+    "event_type": "GENERAL-EVENT-001",
+    "assessment": "{\"happened\": \"Steel production in India halted due to raw material shortage, affecting 4 wheeler manufacturing companies\", \"underlying cause\": \"Raw material shortage\", \"why it matters\": \"Impact on automotive industry and potential supply chain disruptions\", \"significance\": \"Moderate\", \"potentially affected industries\": \"Automotive\", \"additional information needed\": \"Raw material prices and potential impact on global supply chain\", \"priority\": \"MEDIUM\"}",
+    "background": "{\"event_type\": \"GENERAL-EVENT-001\", \"rule_id\": \"GENERAL-EVENT-001\"}",
+    "significance": "Moderate",
+    "potentially_affected_industries": [
+      "Automotive"
+    ],
+    "analyst_investigation_points": [
+      "Raw material prices",
+      "Global supply chain impact"
+    ],
+    "priority": "MEDIUM",
+    "reason_for_priority": "Potential supply chain disruption and moderate significance"
+  },
+  {
+    "article_id": "12",
+    "event_type": "Potentially Material Business Event",
+    "assessment": "{\"happened\": \"Maruthi manufacturing is impacted because of steel price hike\", \"underlying cause\": \"Steel price increase\", \"why it matters\": \"Maruthi manufacturing is impacted by the increase in steel prices\", \"significance\": \"The impact of the steel price hike on Maruthi manufacturing could be significant\", \"affected industries\": \"Automotive\", \"additional information needed\": \"Price direction and potential impact on Maruthi's operations and financials\", \"priority\": \"HIGH\"}",
+    "background": "{\"cause\": \"Steel price increase\", \"price_direction\": \"unclear\", \"affected_geographies\": \"India\", \"potentially_affected_industries\": \"Automotive\"}",
+    "significance": "The impact of the steel price hike on Maruthi manufacturing could be significant",
+    "potentially_affected_industries": [
+      "Automotive"
+    ],
+    "analyst_investigation_points": [
+      "What is the current steel price and its impact on Maruthi's operations?",
+      "How will Maruthi manufacturing adapt to the price hike?",
+      "What is the potential impact on Maruthi's financials and overall business?",
+      "Are there any other industries or companies that could be affected by the steel price hike?",
+      "What is the current relationship between Maruthi and its suppliers of steel?",
+      "Are there any regulatory or policy changes that could impact the steel industry or Maruthi's operations?"
+    ],
+    "priority": "HIGH",
+    "reason_for_priority": "The event has the potential to impact Maruthi's operations and financials, and the analyst needs to investigate further to understand the extent of the impact."
+  }
+]

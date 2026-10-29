@@ -1,0 +1,197 @@
+[
+  {
+    "relevant": true,
+    "event_type": "Potentially Material Business Event",
+    "event_summary": "Brent crude prices surge due to major supply disruption",
+    "cause": "Supply chain disruption",
+    "price_direction": "up",
+    "affected_geographies": [
+      "Global"
+    ],
+    "potentially_affected_industries": [
+      "Energy"
+    ],
+    "confidence": 0,
+    "reason": "Article reports on a significant supply disruption in the energy sector, which could impact global energy markets and prices.",
+    "article_id": "1",
+    "rule_id": "GENERAL-EVENT-001"
+  },
+  {
+    "relevant": true,
+    "event_type": "GENERAL-EVENT-001",
+    "event_summary": "OPEC considers production cuts due to global supply tightness",
+    "cause": "Global supply chain tightness",
+    "price_direction": "unclear",
+    "affected_geographies": [
+      "Global"
+    ],
+    "potentially_affected_industries": [
+      "Energy"
+    ],
+    "confidence": 0,
+    "reason": "Potential impact on energy markets and global supply chain",
+    "article_id": "2",
+    "rule_id": "GENERAL-EVENT-001"
+  },
+  {
+    "relevant": true,
+    "event_type": "Potentially Material Business Event",
+    "event_summary": "Brent crude falls as demand concerns increase",
+    "cause": "Demand concerns",
+    "price_direction": "down",
+    "affected_geographies": [
+      "Global"
+    ],
+    "potentially_affected_industries": [
+      "Energy"
+    ],
+    "confidence": 0,
+    "reason": "Article discusses Brent crude price decrease due to increased demand concerns",
+    "article_id": "3",
+    "rule_id": "GENERAL-EVENT-001"
+  },
+  {
+    "relevant": true,
+    "event_type": "GENERAL-EVENT-001",
+    "event_summary": "Middle East tensions may impact global oil supply",
+    "cause": "Geopolitical developments",
+    "price_direction": "unclear",
+    "affected_geographies": [
+      "Middle East"
+    ],
+    "potentially_affected_industries": [
+      "Energy"
+    ],
+    "confidence": 0,
+    "reason": "Article discusses geopolitical tensions in the Middle East, which could affect global oil supply, a critical commodity for many industries.",
+    "article_id": "4",
+    "rule_id": "GENERAL-EVENT-001"
+  },
+  {
+    "relevant": true,
+    "event_type": "Potentially Material Business Event",
+    "event_summary": "Indian airlines face higher fuel costs due to rising crude prices",
+    "cause": "Rising crude oil prices",
+    "price_direction": "none",
+    "affected_geographies": [
+      "India"
+    ],
+    "potentially_affected_industries": [
+      "Airlines"
+    ],
+    "confidence": 0,
+    "reason": "Higher fuel costs may impact airline profitability and operations",
+    "article_id": "5",
+    "rule_id": "GENERAL-EVENT-001"
+  },
+  {
+    "relevant": true,
+    "event_type": "GENERAL-EVENT-001",
+    "event_summary": "Investors expect lower interest rates, causing technology stocks to rise",
+    "cause": "Investor expectations",
+    "price_direction": "none",
+    "affected_geographies": [],
+    "potentially_affected_industries": [],
+    "confidence": 0,
+    "reason": "",
+    "article_id": "6",
+    "rule_id": "GENERAL-EVENT-001"
+  },
+  {
+    "relevant": true,
+    "event_type": "Potentially Material Business Event",
+    "event_summary": "Global steel demand expected to increase next year",
+    "cause": "Increased demand",
+    "price_direction": "none",
+    "affected_geographies": [
+      "Global"
+    ],
+    "potentially_affected_industries": [
+      "Steel"
+    ],
+    "confidence": 0,
+    "reason": "Increased demand for steel may impact steel prices and industry operations",
+    "article_id": "7",
+    "rule_id": "GENERAL-EVENT-001"
+  },
+  {
+    "relevant": true,
+    "event_type": "Potentially Material Business Event",
+    "event_summary": "Oil prices jump following attacks on major pipeline infrastructure",
+    "cause": "Attacks on pipeline infrastructure",
+    "price_direction": "none",
+    "affected_geographies": [
+      "Global"
+    ],
+    "potentially_affected_industries": [
+      "Energy"
+    ],
+    "confidence": 0,
+    "reason": "Potential supply chain disruption",
+    "article_id": "8",
+    "rule_id": "GENERAL-EVENT-001"
+  },
+  {
+    "relevant": true,
+    "event_type": "Potentially Material Business Event",
+    "event_summary": "Gold prices decline as investors shift towards equities",
+    "cause": "Investor sentiment shift",
+    "price_direction": "none",
+    "affected_geographies": [],
+    "potentially_affected_industries": [
+      "Mining",
+      "Precious Metals"
+    ],
+    "confidence": 0,
+    "reason": "Investor preference for equities over gold",
+    "article_id": "9",
+    "rule_id": "GENERAL-EVENT-001"
+  },
+  {
+    "relevant": true,
+    "event_type": "GENERAL-EVENT-001",
+    "event_summary": "OPEC maintains current production levels amid stable demand",
+    "cause": "stable demand",
+    "price_direction": "none",
+    "affected_geographies": [],
+    "potentially_affected_industries": [],
+    "confidence": 0,
+    "reason": "",
+    "article_id": "10",
+    "rule_id": "GENERAL-EVENT-001"
+  },
+  {
+    "relevant": true,
+    "event_type": "GENERAL-EVENT-001",
+    "event_summary": "Steel production in India halted due to raw material shortage, affecting 4 wheeler manufacturing companies",
+    "cause": "Raw material shortage",
+    "price_direction": "unclear",
+    "affected_geographies": [
+      "India"
+    ],
+    "potentially_affected_industries": [
+      "Automotive"
+    ],
+    "confidence": 0,
+    "reason": "Material supply chain disruption",
+    "article_id": "11",
+    "rule_id": "GENERAL-EVENT-001"
+  },
+  {
+    "relevant": true,
+    "event_type": "Potentially Material Business Event",
+    "event_summary": "Maruthi manufacturing impacted by steel price hike",
+    "cause": "Steel price increase",
+    "price_direction": "unclear",
+    "affected_geographies": [
+      "India"
+    ],
+    "potentially_affected_industries": [
+      "Automotive"
+    ],
+    "confidence": 0,
+    "reason": "Material commodity change",
+    "article_id": "12",
+    "rule_id": "GENERAL-EVENT-001"
+  }
+]

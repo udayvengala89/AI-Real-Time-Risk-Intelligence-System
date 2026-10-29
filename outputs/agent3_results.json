@@ -1,0 +1,441 @@
+[
+  {
+    "event_id": "1",
+    "company": "Maruthi",
+    "industry": "Automobile",
+    "potentially_impacted": false,
+    "impact_direction": "no material exposure identified",
+    "impact_mechanism": "none",
+    "business_area": "none",
+    "potential_financial_impact": [],
+    "analyst_investigation_points": [
+      "Global supply chain impact",
+      "Potential price volatility",
+      "Industry-specific impact assessment"
+    ],
+    "confidence": 0.0,
+    "reason": "The company profile does not indicate any direct involvement in the energy sector or supply chain, and the analyst investigation points do not suggest a material connection between the event and the company."
+  },
+  {
+    "event_id": "1",
+    "company": "Yamaha",
+    "industry": "Automobile",
+    "potentially_impacted": false,
+    "impact_direction": "no material exposure identified",
+    "impact_mechanism": "none",
+    "business_area": "none",
+    "potential_financial_impact": [],
+    "analyst_investigation_points": [
+      "Global supply chain impact",
+      "Potential price volatility",
+      "Industry-specific impact assessment"
+    ],
+    "confidence": 0.0,
+    "reason": "The company profile does not indicate any direct involvement in the energy sector or supply chain, and the analyst investigation points do not suggest a material connection between the event and the company."
+  },
+  {
+    "event_id": "2",
+    "company": "Maruthi",
+    "industry": "Automobile",
+    "potentially_impacted": false,
+    "impact_direction": "no material exposure identified",
+    "impact_mechanism": "none",
+    "business_area": "none",
+    "potential_financial_impact": [],
+    "analyst_investigation_points": [
+      "What is the current state of global supply chains?",
+      "How will OPEC's production cuts affect energy markets?",
+      "What are the potential knock-on effects on other industries?"
+    ],
+    "confidence": 0.0,
+    "reason": "No direct connection between the event and the company's business area. The event's impact on energy markets and global supply chains is not directly relevant to the automobile industry."
+  },
+  {
+    "event_id": "2",
+    "company": "Yamaha",
+    "industry": "Automobile",
+    "potentially_impacted": false,
+    "impact_direction": "no material exposure identified",
+    "impact_mechanism": "none",
+    "business_area": "none",
+    "potential_financial_impact": [],
+    "analyst_investigation_points": [
+      "What is the current state of global supply chains?",
+      "How will OPEC's production cuts affect energy markets?",
+      "What are the potential knock-on effects on other industries?"
+    ],
+    "confidence": 0.0,
+    "reason": "No direct connection between Yamaha's business and the potential impact of OPEC's production cuts on energy markets and global supply chains. Yamaha's business is focused on two-wheeler manufacturing, which is not directly related to energy markets or global supply chains."
+  },
+  {
+    "event_id": "3",
+    "company": "Maruthi",
+    "industry": "Automobile",
+    "potentially_impacted": false,
+    "impact_direction": "no material exposure identified",
+    "impact_mechanism": "none",
+    "business_area": "none",
+    "potential_financial_impact": [],
+    "analyst_investigation_points": [
+      "Check global energy market trends",
+      "Investigate potential impact on other industries",
+      "Verify demand concerns"
+    ],
+    "confidence": 0.0,
+    "reason": "No direct connection between the event and the company's business area. The event is related to the energy market, while the company operates in the automobile industry."
+  },
+  {
+    "event_id": "3",
+    "company": "Yamaha",
+    "industry": "Automobile",
+    "potentially_impacted": false,
+    "impact_direction": "no material exposure identified",
+    "impact_mechanism": "none",
+    "business_area": "none",
+    "potential_financial_impact": [],
+    "analyst_investigation_points": [
+      "Check global energy market trends",
+      "Investigate potential impact on other industries",
+      "Verify demand concerns"
+    ],
+    "confidence": 0.0,
+    "reason": "No direct connection between the event and the company's business area. The event is related to the energy market, while the company is a two-wheeler manufacturer. The potential impact on other industries is mentioned, but no specific connection to Yamaha's business is provided."
+  },
+  {
+    "event_id": "4",
+    "company": "Maruthi",
+    "industry": "Automobile",
+    "potentially_impacted": true,
+    "impact_direction": "potentially positive",
+    "impact_mechanism": "Supply Chain Disruption",
+    "business_area": "Energy",
+    "potential_financial_impact": [
+      "Operating Costs",
+      "Leverage",
+      "Debt Servicing Capacity"
+    ],
+    "analyst_investigation_points": [
+      "Geopolitical developments in the Middle East",
+      "Global oil supply impact on industries",
+      "Supply chain impact on energy-intensive industries"
+    ],
+    "confidence": 0.7,
+    "reason": "Maruthi is a four-wheeler manufacturer, and the global oil supply is critical for many industries. Middle East tensions may impact global oil supply, which could disrupt energy-intensive industries. This could lead to increased operating costs for Maruthi, potentially affecting its leverage and debt servicing capacity."
+  },
+  {
+    "event_id": "4",
+    "company": "Yamaha",
+    "industry": "Automobile",
+    "potentially_impacted": true,
+    "impact_direction": "potentially positive",
+    "impact_mechanism": "Supply Chain Disruption",
+    "business_area": "Energy",
+    "potential_financial_impact": [
+      "Revenue",
+      "Operating Costs",
+      "EBITDA",
+      "Operating Margin",
+      "Liquidity",
+      "Leverage",
+      "Debt Servicing Capacity"
+    ],
+    "analyst_investigation_points": [
+      "Geopolitical developments in the Middle East",
+      "Global oil supply impact on industries",
+      "Supply chain impact on energy-intensive industries",
+      "Potential impact on automotive industry's energy consumption"
+    ],
+    "confidence": 0.7,
+    "reason": "Yamaha is a two-wheeler manufacturer, and the global oil supply is critical for many industries. Middle East tensions may impact global oil supply, which could lead to supply chain disruptions affecting Yamaha's energy-intensive operations. This could result in revenue, operating cost, and EBITDA impacts, as well as effects on liquidity, leverage, and debt servicing capacity."
+  },
+  {
+    "event_id": "5",
+    "company": "Maruthi",
+    "industry": "Automobile",
+    "potentially_impacted": false,
+    "impact_direction": "no material exposure identified",
+    "impact_mechanism": "None",
+    "business_area": "None",
+    "potential_financial_impact": [],
+    "analyst_investigation_points": [
+      "Crude oil prices",
+      "Airline profitability",
+      "Operations"
+    ],
+    "confidence": 0.0,
+    "reason": "No direct connection between the event and the company's business area. The event is related to the airline industry, while the company is involved in the automobile industry."
+  },
+  {
+    "event_id": "5",
+    "company": "Yamaha",
+    "industry": "Automobile",
+    "potentially_impacted": false,
+    "impact_direction": "no material exposure identified",
+    "impact_mechanism": "None",
+    "business_area": "None",
+    "potential_financial_impact": [],
+    "analyst_investigation_points": [
+      "Crude oil prices",
+      "Airline profitability",
+      "Operations"
+    ],
+    "confidence": 0.0,
+    "reason": "No direct connection between the event and the company's business area. The event is related to the airline industry, while the company is involved in the automobile industry."
+  },
+  {
+    "event_id": "6",
+    "company": "Maruthi",
+    "industry": "Automobile",
+    "potentially_impacted": false,
+    "impact_direction": "no material exposure identified",
+    "impact_mechanism": "None identified",
+    "business_area": "None identified",
+    "potential_financial_impact": [],
+    "analyst_investigation_points": [
+      "Investor sentiment",
+      "Interest rate expectations"
+    ],
+    "confidence": 0.0,
+    "reason": "No direct connection between the event and the company's business area or financials is evident. The event's impact on the technology and finance industries is not directly related to the automobile industry or the company's four-wheeler manufacturing business."
+  },
+  {
+    "event_id": "6",
+    "company": "Yamaha",
+    "industry": "Automobile",
+    "potentially_impacted": false,
+    "impact_direction": "no material exposure identified",
+    "impact_mechanism": "None identified",
+    "business_area": "None identified",
+    "potential_financial_impact": [],
+    "analyst_investigation_points": [
+      "Investor sentiment",
+      "Interest rate expectations"
+    ],
+    "confidence": 0.0,
+    "reason": "No direct connection between the event and the company's business area or financials is evident. The event's impact on technology stocks and finance is not directly related to Yamaha's automobile manufacturing business."
+  },
+  {
+    "event_id": "7",
+    "company": "Maruthi",
+    "industry": "Automobile",
+    "potentially_impacted": false,
+    "impact_direction": "no material exposure identified",
+    "impact_mechanism": "none",
+    "business_area": "none",
+    "potential_financial_impact": [],
+    "analyst_investigation_points": [
+      "Steel industry trends",
+      "Supply chain disruptions",
+      "Global steel market analysis"
+    ],
+    "confidence": 0.0,
+    "reason": "No direct connection between the steel industry and the automobile industry, and no indication of supply chain involvement or material exposure."
+  },
+  {
+    "event_id": "7",
+    "company": "Yamaha",
+    "industry": "Automobile",
+    "potentially_impacted": false,
+    "impact_direction": "no material exposure identified",
+    "impact_mechanism": "none",
+    "business_area": "none",
+    "potential_financial_impact": [],
+    "analyst_investigation_points": [
+      "Steel industry trends",
+      "Supply chain disruptions",
+      "Global steel market analysis"
+    ],
+    "confidence": 0.0,
+    "reason": "No direct connection between Yamaha's automobile industry and the global steel demand increase, and no indication of potential supply chain disruptions or steel industry involvement in Yamaha's operations."
+  },
+  {
+    "event_id": "8",
+    "company": "Maruthi",
+    "industry": "Automobile",
+    "potentially_impacted": false,
+    "impact_direction": "no material exposure identified",
+    "impact_mechanism": "none",
+    "business_area": "none",
+    "potential_financial_impact": [],
+    "analyst_investigation_points": [
+      "Investigate pipeline infrastructure security measures",
+      "Investigate potential impact on global energy supply",
+      "Check for any other attacks on pipeline infrastructure"
+    ],
+    "confidence": 0.0,
+    "reason": "No direct connection between the event and the company's business area (Automobile) or industry (Energy) is evident. The event's impact on energy markets is not likely to directly affect Maruthi's four-wheeler manufacturing operations."
+  },
+  {
+    "event_id": "8",
+    "company": "Yamaha",
+    "industry": "Automobile",
+    "potentially_impacted": false,
+    "impact_direction": "no material exposure identified",
+    "impact_mechanism": "none",
+    "business_area": "none",
+    "potential_financial_impact": [],
+    "analyst_investigation_points": [
+      "Investigate pipeline infrastructure security measures",
+      "Investigate potential impact on global energy supply",
+      "Check for any other attacks on pipeline infrastructure"
+    ],
+    "confidence": 0.0,
+    "reason": "No direct connection between Yamaha's business and the energy market, and no indication of potential supply chain disruption or impact on global energy supply."
+  },
+  {
+    "event_id": "9",
+    "company": "Maruthi",
+    "industry": "Automobile",
+    "potentially_impacted": false,
+    "impact_direction": "no material exposure identified",
+    "impact_mechanism": "None",
+    "business_area": "None",
+    "potential_financial_impact": [],
+    "analyst_investigation_points": [
+      "What is the cause of the investor sentiment shift?",
+      "How will the shift impact the mining and precious metals industries?",
+      "What are the underlying economic conditions that may be influencing the investor preference?"
+    ],
+    "confidence": 0.0,
+    "reason": "No direct connection between the event and the company's business area or industry. The event's impact is limited to the mining and precious metals industries, which are not directly related to the company's automobile manufacturing business."
+  },
+  {
+    "event_id": "9",
+    "company": "Yamaha",
+    "industry": "Automobile",
+    "potentially_impacted": false,
+    "impact_direction": "no material exposure identified",
+    "impact_mechanism": "None",
+    "business_area": "None",
+    "potential_financial_impact": [],
+    "analyst_investigation_points": [
+      "What is the cause of the investor sentiment shift?",
+      "How will the shift impact the mining and precious metals industries?",
+      "What are the underlying economic conditions that may be influencing the investor preference?"
+    ],
+    "confidence": 0.0,
+    "reason": "The company Yamaha is in the Automobile industry, which is not directly related to the Mining or Precious Metals industries. The event is related to a decline in gold prices, which is not a direct material exposure for Yamaha. The underlying cause of the investor sentiment shift and its potential impact on the mining and precious metals industries are not yet fully understood, and there is no clear connection between Yamaha's business and the event."
+  },
+  {
+    "event_id": "10",
+    "company": "Maruthi",
+    "industry": "Automobile",
+    "potentially_impacted": false,
+    "impact_direction": "no material exposure identified",
+    "impact_mechanism": "None",
+    "business_area": "None",
+    "potential_financial_impact": [],
+    "analyst_investigation_points": [
+      "OPEC production levels",
+      "Global energy market trends"
+    ],
+    "confidence": 0.0,
+    "reason": "No direct connection between the event and the company's business area. The event is related to the energy industry, while the company is in the automobile industry. The provided information does not suggest any potential exposure."
+  },
+  {
+    "event_id": "10",
+    "company": "Yamaha",
+    "industry": "Automobile",
+    "potentially_impacted": false,
+    "impact_direction": "no material exposure identified",
+    "impact_mechanism": "None",
+    "business_area": "None",
+    "potential_financial_impact": [],
+    "analyst_investigation_points": [
+      "OPEC production levels",
+      "Global energy market trends"
+    ],
+    "confidence": 0.0,
+    "reason": "No direct connection between Yamaha's business and the event's potentially affected industries (Energy). The company's automobile industry is not directly related to oil production or global energy markets, which are the primary concerns of the event. Therefore, no material exposure is supported by the provided information."
+  },
+  {
+    "event_id": "11",
+    "company": "Maruthi",
+    "industry": "Automobile",
+    "potentially_impacted": true,
+    "impact_direction": "potentially negative",
+    "impact_mechanism": "Supply Chain Disruption",
+    "business_area": "Automotive",
+    "potential_financial_impact": [
+      "Operating Costs",
+      "Liquidity"
+    ],
+    "analyst_investigation_points": [
+      "Raw material prices",
+      "Global supply chain impact",
+      "Debt servicing capacity"
+    ],
+    "confidence": 0.7,
+    "reason": "Maruthi is a four-wheeler manufacturer, and steel production in India has been halted due to a raw material shortage. This event could lead to supply chain disruptions, affecting Maruthi's operating costs and liquidity. However, the impact on revenue and EBITDA is uncertain without information on potential price increases for raw materials."
+  },
+  {
+    "event_id": "11",
+    "company": "Yamaha",
+    "industry": "Automobile",
+    "potentially_impacted": true,
+    "impact_direction": "potentially positive",
+    "impact_mechanism": "Supply Chain Disruption",
+    "business_area": "Automotive",
+    "potential_financial_impact": [
+      "Operating Costs",
+      "Liquidity"
+    ],
+    "analyst_investigation_points": [
+      "Raw material prices",
+      "Global supply chain impact",
+      "Debt servicing capacity"
+    ],
+    "confidence": 0.7,
+    "reason": "The event's underlying cause (Raw material shortage) and potentially affected industries (Automotive) align with Yamaha's business (Two Wheer Manufacturer). The event's significance and priority also suggest a moderate impact on the automotive industry, which could affect Yamaha's operating costs and liquidity. However, the potential direction of impact is uncertain due to the lack of information on raw material prices and global supply chain impact. The evidence gap is the limited information on these aspects, which may lead to an uncertain impact on Yamaha's financials."
+  },
+  {
+    "event_id": "12",
+    "company": "Maruthi",
+    "industry": "Automobile",
+    "potentially_impacted": true,
+    "impact_direction": "potentially positive",
+    "impact_mechanism": "raw materials",
+    "business_area": "Manufacturing",
+    "potential_financial_impact": [
+      "operating costs",
+      "EBITDA",
+      "operating margin",
+      "cash flow",
+      "working capital"
+    ],
+    "analyst_investigation_points": [
+      "What is the current steel price and its impact on Maruthi's operations?",
+      "How will Maruthi manufacturing adapt to the price hike?",
+      "What is the potential impact on Maruthi's financials and overall business?",
+      "Are there any other industries or companies that could be affected by the steel price hike?",
+      "What is the current relationship between Maruthi and its suppliers of steel?",
+      "Are there any regulatory or policy changes that could impact the steel industry or Maruthi's operations?"
+    ],
+    "confidence": 0.8,
+    "reason": "The event is a steel price hike, which is a raw material cost increase, and Maruthi is in the Automotive industry, which is potentially affected by the event. The company profile indicates that Maruthi is a Four-Wheeler Manufacturer, which is a business area that could be impacted by the steel price hike."
+  },
+  {
+    "event_id": "12",
+    "company": "Yamaha",
+    "industry": "Automobile",
+    "potentially_impacted": true,
+    "impact_direction": "potentially positive",
+    "impact_mechanism": "raw materials",
+    "business_area": "Manufacturing",
+    "potential_financial_impact": [
+      "operating costs",
+      "EBITDA",
+      "operating margin"
+    ],
+    "analyst_investigation_points": [
+      "What is the current steel price and its impact on Yamaha's operations?",
+      "How will Yamaha manufacturing adapt to the price hike?",
+      "What is the potential impact on Yamaha's financials and overall business?",
+      "Are there any other industries or companies that could be affected by the steel price hike?",
+      "What is the current relationship between Yamaha and its suppliers of steel?",
+      "Are there any regulatory or policy changes that could impact the steel industry or Yamaha's operations?"
+    ],
+    "confidence": 0.8,
+    "reason": "Yamaha is in the Automotive industry, which is potentially affected by the steel price hike. The event mentions that Maruthi manufacturing is impacted by the increase in steel prices, and Yamaha is a two-wheeler manufacturer, which could be affected by the same steel price hike. The potential financial impact on Yamaha could be operating costs, EBITDA, and operating margin, as the company is in the manufacturing business."
+  }
+]
